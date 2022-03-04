@@ -3,8 +3,7 @@
 # About
 
 Simple semi-automated script for importing large amounts of emojis from Slack. 
-Heavily inspired by @lmarkus
-
+Heavily inspired by https://github.com/lmarkus
 # Instructions
 
 Install node if not already installed
