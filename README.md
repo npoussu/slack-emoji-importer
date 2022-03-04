@@ -2,8 +2,9 @@
 
 # About
 
-Simple semi-automated NodeJS script for locally importing large amounts of emojis from Slack. 
+Simple semi-automated NodeJS script for locally importing large amounts of custom emojis from Slack. 
 Heavily inspired by https://github.com/lmarkus
+
 # Instructions
 
 - Install node if not already installed
